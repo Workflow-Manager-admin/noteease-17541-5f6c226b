@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 7, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "884261092c8d74ec62c5c0860a38bc9d", "format-version": 4, "code-base-name": "default", "filename": "noteease/README.md", "knowledge_revision": 10}
